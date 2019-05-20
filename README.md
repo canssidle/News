@@ -17,10 +17,10 @@ In this News Highlights website the user is able to search the website on their 
 * Tests to see the functionality of the classes
 
 
-## Test Driven DEvelopment
+## Test Driven Development
 * Test done using python(unittest)
 
-##Setup/Installation Requirements
+## Setup/Installation Requirements
 * Git clone or visit the python documentation:https://docs.python.org/3/
 
 
