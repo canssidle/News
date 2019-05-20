@@ -1,4 +1,4 @@
-<!-- 
+
 #### NEWS HIGHLIGHTS.
 ### By Canssidle
 
@@ -7,7 +7,7 @@ In this News Highlights website the user is able to search the website on their 
 
 
 ## Behaviour of the application
-* The user is able to get the latest business news
+<!-- * The user is able to get the latest business news
 * The user is able to get the latest entertainment news
 * The user is able to get the latest sports news.
 
