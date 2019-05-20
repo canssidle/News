@@ -1,7 +1,7 @@
-# from flask import render_template
-# from . import main
-# from ..requests import get_news
-# from ..models import Source, Article
+from flask import render_template
+from . import main
+from ..requests import get_news
+from ..models import Source, Article
 
 
 # #views
