@@ -13,7 +13,7 @@ In this News Highlights website the user is able to search the website on their 
 
 
 ## Development
-<!-- * There are two classes namely user and credentials to create instances of the classes
+* There are two classes namely user and credentials to create instances of the classes
 * Tests to see the functionality of the classes
 
 
@@ -21,7 +21,7 @@ In this News Highlights website the user is able to search the website on their 
 * Test done using python(unittest)
 
 ##Setup/Installation Requirements
-* Git clone or visit the python documentation:https://docs.python.org/3/
+<!-- * Git clone or visit the python documentation:https://docs.python.org/3/
 
 
 ## Technologies Used
