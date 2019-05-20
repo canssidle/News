@@ -28,11 +28,11 @@ def get_news():
 
         news_results = []
 
-#         if get_news_response["sources"]:
-#             news_results_list = get_news_response['sources']
-#             news_results = process_results(news_results_list)
+        if get_news_response["sources"]:
+            news_results_list = get_news_response['sources']
+            news_results = process_results(news_results_list)
 
-#     return news_results
+    return news_results
 
 
 
