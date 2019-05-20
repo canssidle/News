@@ -16,13 +16,13 @@ class ProdConfig(Config) :
     """
     pass
 
-# class DevConfig(Config) :
-#     """
-#     Development configuration of the parent class
-#     Args:
-#         Config - the parent configuration class with  general configuration settings
-#     """
-#     DEBUG = True
+class DevConfig(Config) :
+    """
+    Development configuration of the parent class
+    Args:
+        Config - the parent configuration class with  general configuration settings
+    """
+    DEBUG = True
 
 # config_options = {
 # 'development':DevConfig,
