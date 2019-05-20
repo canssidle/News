@@ -21,7 +21,7 @@ In this News Highlights website the user is able to search the website on their 
 * Test done using python(unittest)
 
 ##Setup/Installation Requirements
-<!-- * Git clone or visit the python documentation:https://docs.python.org/3/
+* Git clone or visit the python documentation:https://docs.python.org/3/
 
 
 ## Technologies Used
@@ -29,10 +29,10 @@ In this News Highlights website the user is able to search the website on their 
 
 
 ## Support and contact details
- If any complications occur email me at canssidlewairimu@gmail.com
+ <!-- If any complications occur email me at canssidlewairimu@gmail.com
 ### License
 
-* MIT Copyright (c) 2018 **Canssidle
-   -->
+* MIT Copyright (c) 2018 **Canssidle -->
+  
 
  
