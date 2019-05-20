@@ -38,14 +38,14 @@ def get_news():
 
 
 
-# def process_results(news_list):
+def process_results(news_list):
 
-#     news_results = []
-#     for news_item in news_list:
-#         id = news_item.get('id')
-#         name = news_item.get('name')
-#         description = news_item.get('description')
-#         url = news_item.get('url')
+    news_results = []
+    for news_item in news_list:
+        id = news_item.get('id')
+        name = news_item.get('name')
+        description = news_item.get('description')
+        url = news_item.get('url')
        
               
 #         news_object = Source(id, name,description,url)
