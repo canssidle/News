@@ -4,11 +4,11 @@ from .models import Source,Article
 
 
 
-# # getting api key 
-# api_key = None
+# getting api key 
+api_key = None
 
-# # getting the news based url 
-# base_url = None
+# getting the news based url 
+base_url = None
 
 # def configure_request(app):
 #     global api_key,base_url
