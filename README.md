@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 #### NEWS HIGHLIGHTS.
 ### By Canssidle
@@ -37,6 +36,3 @@ In this News Highlights website the user is able to search the website on their 
   
 
  
-=======
-# News
->>>>>>> 7b4e5a1df97e408814d6990bd2c4bcc3a4e1bee1
