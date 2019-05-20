@@ -11,7 +11,7 @@ def index():
     View root page function that returns the index page and its data
     """
 
-    sources= get_news()
+    sources = get_news()
     
     
 
