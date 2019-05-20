@@ -13,13 +13,13 @@ class Source:
           
 
 
-# class Article:
-#     all_articles = []
+class Article:
+    all_articles = []
 
-#     def __init__(self, author, title, description, urlToImage, publishedAt, content):
-#         self.id = author
-#         self.title = title
-#         self.description = description
-#         self.urlToImage = urlToImage
-#         self.publishedAt = publishedAt
-#         self.content = content
+    def __init__(self, author, title, description, urlToImage, publishedAt, content):
+        self.id = author
+        self.title = title
+        self.description = description
+        self.urlToImage = urlToImage
+        self.publishedAt = publishedAt
+        self.content = content
